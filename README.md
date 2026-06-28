@@ -2,4 +2,4 @@
 
 
 
-![snake](https://raw.githubusercontent.com/shivamgodhwani/shivamgodhwani/output/github-snake.svg)
+![snake](https://raw.githubusercontent.com/shivamgodhwani-ship-it/shivamgodhwani-ship-it/output/github-snake.svg)
